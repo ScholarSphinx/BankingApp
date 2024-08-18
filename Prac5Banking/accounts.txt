@@ -1,0 +1,10 @@
+AccountNumber	AccountType	AccountHolder	OpeningBalance
+11	Shariah	Mohammed Paruk	5750.23
+22	Traditional	Hugh Stacey	22000.45
+33	Traditional	Deshendran Moodley	2103.35
+44	Shariah	Amina Randeree	4889.46
+55	Shariah	Johnny Maylock	2020.34
+66	Traditional	Hilton Kelly	500.56
+77	Shariah	Haroon Moosa	8335.34
+88	Shariah	Asad Jeewa	779.20
+99	Traditional	Luke Momengo	1109.20
